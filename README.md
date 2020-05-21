@@ -32,4 +32,4 @@ After using the function described there it worked very well and my ESP woke up 
 
 ## Test it
 
-This repository contains a [PlattformIO], which you can use to check if this also works for you. If you are not using an ESP-01, you might need to adjust [platformio.ini](platformio.ini). The important bits are in [src/main.cpp](src/main.cpp).
+This repository contains a [PlatformIO project](https://platformio.org/), which you can use to check if this also works for you. If you are not using an ESP-01, you might need to adjust [platformio.ini](platformio.ini). The important bits are in [src/main.cpp](src/main.cpp).
